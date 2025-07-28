@@ -12,7 +12,8 @@ A modern, visually appealing web application that transforms your text prompts i
 
 ## Demo
 
-![App Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![App Screenshot]
+!(image.png) <!-- Add a screenshot if available -->
 
 ## Getting Started
 
