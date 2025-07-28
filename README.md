@@ -11,10 +11,7 @@ A modern, visually appealing web application that transforms your text prompts i
 - **Keyboard Shortcuts:** Press Enter to submit your prompt quickly.
 
 ## Demo
-
-![App Screenshot]
-!(image.png) <!-- Add a screenshot if available -->
-
+![Screenshot of app's demo](image.png) 
 ## Getting Started
 
 ### Prerequisites
