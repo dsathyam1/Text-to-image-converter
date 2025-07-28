@@ -1,5 +1,5 @@
 const API_URL = 'https://api.vyro.ai/v2/image/generations';
-const API_KEY = 'vk-b3a2d1A3mZBVd1FV1o3V6rjBY7qZ3VM9JUZDY2i72jUMwVE'; 
+const API_KEY = 'put_your_api_here'; 
 
 const promptInput = document.getElementById("promptInput");
 const generateBtn = document.getElementById("generateBtn");
